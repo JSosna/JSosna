@@ -1,7 +1,6 @@
 ### Flutter Developer
 
-Focused on application architecture, performance optimisation and production delivery.  
-My commercial work is in private repositories. Below are two independently developed academic apps published in 2023.
+Focused on application architecture, performance optimisation and production delivery.
 
 **Differential Evolution:**
 [App Store](https://apps.apple.com/pl/app/differential-evolution/id1662013881) | 
